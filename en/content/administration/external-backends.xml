@@ -157,6 +157,7 @@ CustomerValid => 'valid_id',
     },
 };
 </programlisting>
+<emphasis>Hint: OTRS expects the validity code as a number of either 1 ("valid") or 2 ("invalid").</emphasis>
 </para>
 
 </example>
